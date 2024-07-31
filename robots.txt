@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://euchewic.github.io/sitemap.html.gz
+Sitemap: https://euchewic.github.io/app/sitemap.html.gz
+Sitemap: https://euchewic.github.io/assets/sitemap.html.gz
+Sitemap: https://euchewic.github.io/css/sitemap.html.gz
+Sitemap: https://euchewic.github.io/includes/sitemap.html.gz
+Sitemap: https://euchewic.github.io/item/sitemap.html.gz
+Sitemap: https://euchewic.github.io/src/sitemap.html.gz
